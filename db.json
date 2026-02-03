@@ -1,0 +1,32 @@
+{
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Pilsner Urquell",
+      "category": "pivo",
+      "price": 45,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Zelená",
+      "category": "lihoviny",
+      "price": 35,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Chipsy solené",
+      "category": "snacky",
+      "price": 25,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "Cappy Orange",
+      "category": "nealko",
+      "price": 30,
+      "available": true
+    }
+  ]
+}
