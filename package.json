@@ -1,5 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "DevNetPrep",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
